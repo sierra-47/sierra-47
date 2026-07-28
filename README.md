@@ -3,8 +3,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Cybersecurity and IT Professional
 ---------------------------------
+I am a customer-focused IT professional with over 15 years of experience delivering exceptional customer service, resolving technical issues, and building strong client relationships. Throughout my career, I have developed a proven ability to troubleshoot hardware and software issues, communicate complex technical concepts in a clear and professional manner, and remain calm under pressure.
 
-IT Support and Cybersecurity professional with 7+ years of technical troubleshooting and customer support experience. Skilled in hardware diagnostics, networking fundamentals, systems administration, cloud technologies, and technical problem resolution. Hands-on experience supporting mobile devices, troubleshooting cloud-based systems, and administering Azure environments. Currently pursuing Computer Information Systems education with cybersecurity training and cloud security project experience. Strong ability to operate in fast-paced environments, resolve technical issues, and support end users effectively.
+My technical background includes an Associate of Science in Information Technology, cybersecurity training, and hands-on experience troubleshooting Apple and Samsung devices. I have supported customers by diagnosing device issues, performing technical troubleshooting, and providing remote assistance to resolve account and credential-related problems efficiently.
+
+I am now seeking to transition into an IT Help Desk role where I can combine my extensive customer service experience with my technical knowledge of computer systems, networking, operating systems, and cybersecurity principles. I am eager to contribute strong problem-solving skills, a passion for technology, and a commitment to delivering outstanding end-user support while continuing to grow my career in information technology.
+
+
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [sierra.edgar25@gmail.com](mailto:sierra.edgar25@gmail.com)
