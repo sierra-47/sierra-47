@@ -9,13 +9,12 @@ My technical background includes an Associate of Science in Information Technolo
 
 I am now seeking to transition into an IT Help Desk role where I can combine my extensive customer service experience with my technical knowledge of computer systems, networking, operating systems, and cybersecurity principles. I am eager to contribute strong problem-solving skills, a passion for technology, and a commitment to delivering outstanding end-user support while continuing to grow my career in information technology.
 
+**Projects**
+
 
 
 * 🌍  I'm based in California
-* ✉️  You can contact me at [sierra.edgar25@gmail.com](mailto:sierra.edgar25@gmail.com)
-
-* Projects
-* 
+* ✉️  You can contact me at [sierra.edgar25@gmail.com](mailto:sierra.edgar25@gmail.com) 
 
 
 <p align="left">
